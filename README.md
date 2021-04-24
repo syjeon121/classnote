@@ -1,1 +1,1 @@
-## cfd classnote in 2017 second semester
+## CFD classnote in 2017 second semester
